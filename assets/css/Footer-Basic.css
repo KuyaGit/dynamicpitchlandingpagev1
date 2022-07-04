@@ -92,7 +92,7 @@
   position: relative;
   max-height: 100%;
   overflow: hidden;
-  margin-bottom: -7px;
+  margin-bottom: 0px;
 }
 
 #bg-video {
@@ -153,10 +153,7 @@ font-style: normal; color: #f5a425; font-weight: 900;.caption {
 }
 
 .highlight-phone {
-  background-color: rgba(22,34,57,0.85);
-  top: 0;
-  left: 0;
-  bottom: 0px;
-  width: 100%;
+  margin-top: -500px;
+  padding: 100px;
 }
 
