@@ -152,3 +152,11 @@ font-style: normal; color: #f5a425; font-weight: 900;.caption {
   font-weight: 900;
 }
 
+.highlight-phone {
+  background-color: rgba(22,34,57,0.85);
+  top: 0;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+}
+
