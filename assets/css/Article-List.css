@@ -71,3 +71,15 @@
   opacity: 1;
 }
 
+.icon {
+  /*padding: 50px;*/
+  /*background-color: green;*/
+  transition: transform .2s;
+  /*height: 200px;*/
+  margin: 0 auto;
+}
+
+.icon:hover {
+  transform: scale(1.5);
+}
+
